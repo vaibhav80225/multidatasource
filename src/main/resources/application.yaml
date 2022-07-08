@@ -1,0 +1,5 @@
+my:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/users
+    username: postgres
+    password: postgres

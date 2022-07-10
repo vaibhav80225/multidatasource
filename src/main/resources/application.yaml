@@ -1,5 +1,9 @@
-my:
+spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/users
+    username: postgres
+    password: postgres
+  product:
+    url: jdbc:postgresql://localhost:5432/products
     username: postgres
     password: postgres

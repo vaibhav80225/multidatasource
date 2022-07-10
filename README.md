@@ -24,7 +24,7 @@ Features include but not limited to:
 </div>
 
 <div align="center">
-  <sub>Built with ❤︎ by <a href="https://twitter.com/its_vaib>Vaibhav J/a> and <a href="https://github.com/vaibhav80225/multidatasource/pulse">contributors</a>
+  <sub>Built with ❤︎ by <a href="https://twitter.com/its_vaib">Vaibhav J</a> and <a href="https://github.com/vaibhav80225/multidatasource/pulse">contributors</a>
 </div>
 
 </br>
